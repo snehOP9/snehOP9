@@ -17,7 +17,7 @@
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:abhishekkr7133@gmail.com"><img src="https://img.shields.io/badge/📧abhishekkr7133@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:sneh.raunak@zohomail.in"><img src="https://img.shields.io/badge/📧sneh.raunak@zohomail.in-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/abhishek-kumar8211/">
+  <a href="https://www.linkedin.com/in/sneh-raunak/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
