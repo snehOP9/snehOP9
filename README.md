@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
   
-  <a href="https://github.com/Abhishek8211">
+  <a href="https://github.com/snehOP9">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
