@@ -98,7 +98,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Abhishek8211&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=snehOP9&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 <br/>
@@ -106,7 +106,7 @@
 ## 📅 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek8211&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehOP9&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -114,7 +114,7 @@
 ## 🧩 LeetCode Stats
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Abhishek7133?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Snehhhh?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 ---
