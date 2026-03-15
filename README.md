@@ -25,7 +25,7 @@
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/Abhishek8211">
+  <a href="https://dev.to/snehop09">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
   
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://instagram.com/ig.abhishek__1">
+  <a href="https://www.instagram.com/sneh.raunak/">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://x.com/luciferpubg1231">
+  <a href="https://x.com">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logoColor=white" />
   </a>
 </p>
