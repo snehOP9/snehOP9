@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Refresh profile visuals
 
 on:
   push:
@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: contribution-snake
+  group: profile-visuals
   cancel-in-progress: true
 
 jobs:
@@ -20,18 +20,36 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
       - name: Generate light and dark contribution snakes
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated SVGs to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          target_branch: gh-pages
+      - name: Generate custom GitHub dashboard
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+        run: python .github/scripts/generate_dashboard.py
+
+      - name: Publish generated profile assets
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          publish_dir="$(mktemp -d)"
+          cp -R dist/. "$publish_dir/"
+          cd "$publish_dir"
+          git init
+          git checkout -b gh-pages
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit --allow-empty -m "chore: refresh profile visuals"
+          git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages
