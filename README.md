@@ -103,11 +103,19 @@
 
 <br/>
 
-## 📅 GitHub Contribution Calendar
+## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/f97316/snehOP9" alt="Sneh's GitHub Contribution Calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snehOP9/snehOP9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snehOP9/snehOP9/output/github-contribution-grid-snake.svg">
+    <img alt="Sneh's animated GitHub contribution graph" src="https://raw.githubusercontent.com/snehOP9/snehOP9/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+
+<p align="center">
+  <sub>🐍 Updated automatically every day from my GitHub contributions.</sub>
+</p>
 
 ---
 
