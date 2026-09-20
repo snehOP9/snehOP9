@@ -47,7 +47,7 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=snehOP9&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -83,7 +83,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,androidstudio" />
 </td>
 </tr>
 </table>
@@ -106,7 +106,7 @@
 ## 📅 GitHub Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehOP9&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/f97316/snehOP9" alt="Sneh's GitHub Contribution Calendar" />
 </div>
 
 ---
