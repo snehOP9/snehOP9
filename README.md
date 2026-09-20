@@ -1,20 +1,32 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Sneh Raunak — machine-learning systems and full-stack products" />
-</p>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" />
+  Hi, I'm <strong>Sneh</strong>
+</h1>
 
-<h1 align="center">Sneh Raunak</h1>
+<h3>Full-Stack & ML Developer · Python · Java · React · Machine Learning</h3>
 
-<p align="center">
-  <strong>Full-Stack & ML Developer</strong><br/>
-  Building production-oriented software where models, APIs, data, and product UX work together.
-</p>
+<div align="left">
+  <img align="right" width="330" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="developer animation" />
 
-<p align="center">
-  <a href="https://snehraunak.in"><img src="https://img.shields.io/badge/Portfolio-snehraunak.in-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://snehraunak.in/resume/Sneh_Raunak_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-F59E0B?style=flat-square" alt="Resume" /></a>
-  <a href="https://www.linkedin.com/in/sneh-raunak/"><img src="https://img.shields.io/badge/LinkedIn-Sneh_Raunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sneh.raunakk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+  <p>
+    I build ML-backed and full-stack products with a focus on clear architecture,
+    practical engineering, and interfaces people can actually use.
+  </p>
+
+  <p>
+    Currently working across <strong>FastAPI, React, TypeScript, Java/Spring Boot,
+    ML systems, and explainable AI</strong>.
+  </p>
+
+  <p>
+    <a href="https://snehraunak.in"><img src="https://img.shields.io/badge/Portfolio-snehraunak.in-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://snehraunak.in/resume/Sneh_Raunak_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-F59E0B?style=flat-square" alt="Resume" /></a>
+    <a href="https://www.linkedin.com/in/sneh-raunak/"><img src="https://img.shields.io/badge/LinkedIn-Sneh_Raunak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:sneh.raunakk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
+
+<br clear="all" />
 
 ---
 
