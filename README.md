@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://snehraunak.in"><img src="https://img.shields.io/badge/Portfolio-snehraunak.in-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://snehraunak.in/resume/Sneh_Raunak_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View_PDF-F59E0B?style=for-the-badge&logo=readme&logoColor=111827" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/sneh-raunak/"><img src="https://img.shields.io/badge/LinkedIn-Sneh_Raunak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/snehOP9"><img src="https://img.shields.io/badge/GitHub-snehOP9-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://leetcode.com/u/Snehhhh/"><img src="https://img.shields.io/badge/LeetCode-Snehhhh-FFA116?style=for-the-badge&logo=leetcode&logoColor=111827" alt="LeetCode" /></a>
@@ -154,6 +155,7 @@ A research exploration focused on making model comparison and feature analysis i
 
 <p align="center">
   <a href="https://snehraunak.in"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://snehraunak.in/resume/Sneh_Raunak_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-F59E0B?style=flat-square&logo=readme&logoColor=111827" alt="Resume" /></a>
   <a href="https://www.linkedin.com/in/sneh-raunak/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://dev.to/snehop09"><img src="https://img.shields.io/badge/DEV.to-Follow-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to" /></a>
   <a href="mailto:sneh.raunakk@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
