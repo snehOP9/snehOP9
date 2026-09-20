@@ -1,0 +1,82 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="170" y1="84" x2="845" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+      <animate attributeName="x1" values="120;260;120" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="820;980;820" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glowA">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10"/>
+    </filter>
+    <clipPath id="typingClip">
+      <rect x="76" y="246" width="0" height="26">
+        <animate attributeName="width" values="0;680;680;0" keyTimes="0;0.55;0.88;1" dur="8s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="328" rx="24" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <circle cx="1018" cy="54" r="210" fill="url(#glowA)"/>
+  <circle cx="1120" cy="265" r="225" fill="url(#glowB)"/>
+
+  <g opacity="0.7">
+    <circle cx="1020" cy="92" r="5" fill="#22D3EE"/>
+    <circle cx="1103" cy="139" r="4" fill="#8B5CF6"/>
+    <circle cx="1014" cy="208" r="5" fill="#F59E0B"/>
+    <circle cx="1118" cy="248" r="4" fill="#22D3EE"/>
+    <path d="M1020 92L1103 139L1014 208L1118 248" stroke="#4B5563" stroke-width="1.5"/>
+    <path d="M1020 92L1014 208M1103 139L1118 248" stroke="#374151" stroke-width="1.2"/>
+    <circle cx="1068" cy="170" r="60" stroke="#30363D"/>
+    <circle cx="1068" cy="170" r="82" stroke="#21262D"/>
+    <circle cx="1068" cy="170" r="104" stroke="#1F2937"/>
+    <circle cx="1068" cy="170" r="6" fill="#8B5CF6">
+      <animate attributeName="r" values="5;8;5" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text x="76" y="60" fill="#8B949E" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="600" letter-spacing="3">SNEH RAUNAK / BUILDING IN PUBLIC</text>
+
+  <text x="76" y="132" fill="white" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="800">Machine-learning systems</text>
+  <text x="76" y="188" fill="url(#accent)" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="800">&amp; full-stack products.</text>
+
+  <text x="76" y="225" fill="#AAB2BF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="19">Explainable ML • product engineering • APIs • thoughtful developer experience</text>
+
+  <g clip-path="url(#typingClip)">
+    <text x="76" y="266" fill="#7DD3FC" font-family="Consolas, SFMono-Regular, Menlo, monospace" font-size="17">$ build --with clarity --ship --learn --repeat</text>
+  </g>
+  <rect x="76" y="248" width="2" height="22" fill="#F59E0B">
+    <animate attributeName="x" values="76;520;520;76" keyTimes="0;0.55;0.88;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="14" font-weight="600">
+    <rect x="76" y="288" width="92" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="96" y="307" fill="#C9D1D9">Python</text>
+    <rect x="178" y="288" width="96" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="197" y="307" fill="#C9D1D9">FastAPI</text>
+    <rect x="284" y="288" width="88" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="307" y="307" fill="#C9D1D9">React</text>
+    <rect x="382" y="288" width="112" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="400" y="307" fill="#C9D1D9">TypeScript</text>
+    <rect x="504" y="288" width="100" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="524" y="307" fill="#C9D1D9">Next.js</text>
+    <rect x="614" y="288" width="94" height="27" rx="13.5" fill="#161B22" stroke="#30363D"/>
+    <text x="635" y="307" fill="#C9D1D9">MLflow</text>
+  </g>
+</svg>
