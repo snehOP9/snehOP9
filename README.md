@@ -89,14 +89,6 @@ Research exploration around model comparison, threshold selection, explainabilit
 </p>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/snehOP9/snehOP9/gh-pages/profile-dashboard.svg"
-    alt="Sneh Raunak live GitHub dashboard"
-    width="100%"
-  />
-</p>
-
-<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -113,7 +105,7 @@ Research exploration around model comparison, threshold selection, explainabilit
   </picture>
 </p>
 
-<sub>Live streak data is generated from GitHub contribution history. The dashboard and contribution visual refresh automatically each day.</sub>
+<sub>Live streak data is generated from GitHub contribution history. The contribution visual refreshes automatically each day.</sub>
 
 ## More work
 
