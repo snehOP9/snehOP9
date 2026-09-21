@@ -79,6 +79,42 @@ Research exploration around model comparison, threshold selection, explainabilit
   <img src="https://skillicons.dev/icons?i=python,java,spring,ts,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,git,githubactions" alt="Sneh Raunak technology stack" />
 </p>
 
+## Live GitHub activity
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=snehOP9&theme=github-dark-blue&hide_border=true&background=0D1117"
+    alt="Sneh Raunak GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/snehOP9/snehOP9/gh-pages/profile-dashboard.svg"
+    alt="Sneh Raunak live GitHub dashboard"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/snehOP9/snehOP9/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/snehOP9/snehOP9/gh-pages/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Sneh Raunak GitHub contribution activity"
+      src="https://raw.githubusercontent.com/snehOP9/snehOP9/gh-pages/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+<sub>Live streak data is generated from GitHub contribution history. The dashboard and contribution visual refresh automatically each day.</sub>
+
 ## More work
 
 - **[Anony Talk](https://github.com/snehOP9/anony-talk)** — anonymous community product built with React, Node.js, Express, and SQLite.
